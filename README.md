@@ -2,7 +2,7 @@
 Theory of Computation &amp; Automata Theory
 
 ## Grammar
-https://docs.google.com/document/d/1OLUEow9O3KXIQaTu4rAirA1RVf4GLAke/edit?usp=sharing&ouid=118408426946397018712&rtpof=true&sd=true
+https://drive.google.com/file/d/1VaRj8TDbsOGgQWhjE5Wf6BAFzt84l8pP/view?usp=sharing
 
 ## Class diagram
 ![alt tag](https://drive.google.com/uc?export=view&id=1-q-MBkSU6Ju0IkOXQ0WQVd6YmK_ejP8J "Class diagram")
