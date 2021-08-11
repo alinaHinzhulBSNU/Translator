@@ -14,5 +14,4 @@ https://drive.google.com/file/d/1VaRj8TDbsOGgQWhjE5Wf6BAFzt84l8pP/view?usp=shari
 ![alt tag](https://drive.google.com/uc?export=view&id=1r7T08PEZ01bWkr-5VfqIH8eq80qn0zkv "Incorrect results")
 
 ## Courses:
-1. Neso Academy: https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev
-2. Uncode - GATE Computer Science: https://www.youtube.com/watch?v=-pT5MOBvd_c&list=PLEbnTDJUr_Id-aPgbnDc03uuy9euuPvpp
+Neso Academy: https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev
