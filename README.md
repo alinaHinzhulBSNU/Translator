@@ -5,7 +5,7 @@ Theory of Computation &amp; Automata Theory
 https://drive.google.com/file/d/1VaRj8TDbsOGgQWhjE5Wf6BAFzt84l8pP/view?usp=sharing
 
 ## Class diagram
-![alt tag](https://drive.google.com/uc?export=view&id=1-q-MBkSU6Ju0IkOXQ0WQVd6YmK_ejP8J "Class diagram")
+![alt tag](https://drive.google.com/file/d/1-q-MBkSU6Ju0IkOXQ0WQVd6YmK_ejP8J/view?usp=share_link "Class diagram")
 
 ## Results for correct code:
 ![alt tag](https://drive.google.com/uc?export=view&id=1Mbs8nefuKa5km0ohYNUZVCSXMDTPc88V "Correct results")
